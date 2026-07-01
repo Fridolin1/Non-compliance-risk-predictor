@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#D97706"          # Alert Amber (Buttons, interactive highlights)
+backgroundColor="#F8FAFC"       # Clean Slate (Main dashboard body background)
+secondaryBackgroundColor="#fcfcfc" # Deep Navy (Sidebar for institutional authority)
+textColor="#1E293B"             # Slate Gray (Highly readable body text)
+font="sans serif"
