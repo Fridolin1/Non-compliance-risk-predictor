@@ -1,0 +1,151 @@
+institution_id,institution_type,car_pct,npl_ratio_pct,liquidity_ratio,late_reports_count,audit_findings,compliance_label
+FI-074,SACCO (SME focus),12.8,16.5,43.3,1,5.3,Compliant
+FI-019,Commercial Bank,15.3,4.9,48.3,0,3.3,Compliant
+FI-119,MFI (Informal clients),25.1,26.0,21.8,0,5.0,Non-Compliant
+FI-079,SACCO (SME focus),18.7,14.4,30.2,3,4.5,Non-Compliant
+FI-077,SACCO (SME focus),12.1,17.5,34.9,0,6.2,Compliant
+FI-032,Commercial Bank,25.0,4.9,38.6,1,2.6,Compliant
+FI-065,SACCO (SME focus),20.4,14.7,36.6,1,8.5,Non-Compliant
+FI-142,MFI (Informal clients),14.7,33.5,15.6,4,5.2,Non-Compliant
+FI-069,SACCO (SME focus),17.4,17.4,27.8,2,2.1,Compliant
+FI-083,SACCO (SME focus),18.0,11.5,28.2,3,3.5,Non-Compliant
+FI-111,MFI (Informal clients),14.2,23.5,18.4,8,7.0,Non-Compliant
+FI-013,Commercial Bank,19.3,1.2,38.5,0,3.0,Compliant
+FI-037,Commercial Bank,19.2,6.3,31.0,0,1.8,Compliant
+FI-010,Commercial Bank,20.4,6.4,37.3,1,2.7,Compliant
+FI-020,Commercial Bank,13.6,2.4,44.8,1,3.3,Compliant
+FI-057,SACCO (SME focus),8.8,12.8,23.3,5,3.6,Non-Compliant
+FI-105,MFI (Informal clients),24.9,13.7,21.8,2,6.5,Compliant
+FI-070,SACCO (SME focus),10.5,8.0,25.1,1,5.4,Non-Compliant
+FI-056,SACCO (SME focus),16.0,15.2,22.9,3,8.2,Non-Compliant
+FI-133,MFI (Informal clients),6.6,27.2,22.1,0,8.8,Non-Compliant
+FI-030,Commercial Bank,17.5,0.5,33.5,0,2.1,Compliant
+FI-128,MFI (Informal clients),13.9,17.6,9.1,2,8.4,Non-Compliant
+FI-027,Commercial Bank,14.5,4.2,29.1,0,2.0,Compliant
+FI-129,MFI (Informal clients),9.7,21.6,12.9,4,5.3,Non-Compliant
+FI-132,MFI (Informal clients),26.5,17.9,9.5,2,6.8,Non-Compliant
+FI-146,MFI (Informal clients),19.5,16.1,16.9,2,9.4,Non-Compliant
+FI-109,MFI (Informal clients),32.0,20.8,5.6,2,6.2,Non-Compliant
+FI-144,MFI (Informal clients),9.6,16.7,8.1,7,7.2,Non-Compliant
+FI-046,Commercial Bank,16.0,0.5,45.0,0,1.5,Compliant
+FI-031,Commercial Bank,16.4,3.5,24.0,2,1.8,Compliant
+FI-023,Commercial Bank,18.7,3.9,50.6,1,3.4,Compliant
+FI-016,Commercial Bank,16.5,7.4,40.7,0,4.1,Compliant
+FI-066,SACCO (SME focus),16.6,14.1,26.4,3,5.6,Non-Compliant
+FI-012,Commercial Bank,16.9,3.5,37.8,0,0.8,Compliant
+FI-043,Commercial Bank,18.1,2.2,23.5,3,1.4,Compliant
+FI-147,MFI (Informal clients),18.0,4.7,16.8,0,6.2,Compliant
+FI-052,SACCO (SME focus),16.0,7.9,22.4,3,9.0,Non-Compliant
+FI-028,Commercial Bank,19.8,3.3,32.9,0,3.6,Compliant
+FI-005,Commercial Bank,17.7,6.6,36.5,0,2.8,Compliant
+FI-033,Commercial Bank,18.5,7.7,28.4,1,6.0,Compliant
+FI-143,MFI (Informal clients),13.6,25.1,18.0,1,9.2,Non-Compliant
+FI-086,SACCO (SME focus),13.0,21.5,37.6,0,3.9,Compliant
+FI-087,SACCO (SME focus),9.6,6.0,49.5,1,5.3,Non-Compliant
+FI-017,Commercial Bank,15.0,3.8,37.7,1,0.4,Compliant
+FI-011,Commercial Bank,16.9,2.8,20.7,0,2.6,Compliant
+FI-082,SACCO (SME focus),13.5,10.3,20.3,2,7.4,Non-Compliant
+FI-134,MFI (Informal clients),18.4,20.8,25.5,1,8.3,Non-Compliant
+FI-138,MFI (Informal clients),9.8,16.0,7.3,2,8.6,Non-Compliant
+FI-076,SACCO (SME focus),9.4,15.1,32.0,0,6.8,Non-Compliant
+FI-110,MFI (Informal clients),21.7,12.7,24.0,0,7.7,Non-Compliant
+FI-097,SACCO (SME focus),20.5,15.9,20.4,2,6.7,Compliant
+FI-106,MFI (Informal clients),13.5,6.4,5.0,4,6.5,Non-Compliant
+FI-067,SACCO (SME focus),7.7,10.9,27.8,6,8.8,Non-Compliant
+FI-001,Commercial Bank,20.2,4.8,25.3,2,1.2,Compliant
+FI-123,MFI (Informal clients),15.5,22.7,19.4,2,9.2,Non-Compliant
+FI-068,SACCO (SME focus),11.3,11.6,18.0,0,2.7,Non-Compliant
+FI-029,Commercial Bank,16.4,4.2,38.9,4,1.3,Compliant
+FI-041,Commercial Bank,21.1,4.2,40.0,1,1.4,Compliant
+FI-045,Commercial Bank,13.3,3.0,40.3,3,2.6,Compliant
+FI-061,SACCO (SME focus),19.2,15.1,20.8,5,3.1,Non-Compliant
+FI-124,MFI (Informal clients),9.8,29.1,18.3,2,9.8,Non-Compliant
+FI-025,Commercial Bank,16.6,0.5,43.3,0,3.9,Compliant
+FI-026,Commercial Bank,18.9,6.1,57.7,0,3.5,Compliant
+FI-024,Commercial Bank,13.5,7.9,25.4,0,4.2,Compliant
+FI-095,SACCO (SME focus),18.6,11.4,10.0,0,5.3,Non-Compliant
+FI-040,Commercial Bank,19.2,5.3,26.9,0,0.9,Compliant
+FI-096,SACCO (SME focus),8.7,7.6,22.7,2,5.1,Non-Compliant
+FI-118,MFI (Informal clients),8.5,16.3,10.1,2,6.8,Non-Compliant
+FI-048,Commercial Bank,22.2,4.7,26.1,3,3.5,Compliant
+FI-098,SACCO (SME focus),7.0,10.3,29.5,3,7.0,Non-Compliant
+FI-114,MFI (Informal clients),16.2,10.5,31.9,6,9.5,Non-Compliant
+FI-034,Commercial Bank,14.8,2.7,42.3,0,0.0,Compliant
+FI-139,MFI (Informal clients),15.3,21.8,5.0,3,8.6,Non-Compliant
+FI-102,MFI (Informal clients),5.0,22.8,27.7,1,7.5,Non-Compliant
+FI-063,SACCO (SME focus),8.6,6.9,31.1,0,5.0,Non-Compliant
+FI-085,SACCO (SME focus),17.1,6.9,42.5,4,4.4,Non-Compliant
+FI-149,MFI (Informal clients),15.6,5.9,19.4,3,4.7,Non-Compliant
+FI-054,SACCO (SME focus),12.6,8.5,30.4,0,7.4,Non-Compliant
+FI-006,Commercial Bank,17.7,6.3,41.6,2,0.6,Compliant
+FI-094,SACCO (SME focus),15.3,6.5,22.0,1,5.9,Compliant
+FI-112,MFI (Informal clients),9.3,7.4,13.1,5,10.0,Non-Compliant
+FI-050,Commercial Bank,12.3,3.4,40.7,4,2.8,Compliant
+FI-036,Commercial Bank,14.2,2.7,51.9,0,0.1,Compliant
+FI-081,SACCO (SME focus),11.5,12.6,29.0,6,5.4,Non-Compliant
+FI-078,SACCO (SME focus),8.6,11.1,24.0,4,3.6,Non-Compliant
+FI-035,Commercial Bank,21.4,2.0,29.7,0,3.5,Compliant
+FI-115,MFI (Informal clients),10.5,14.4,17.3,5,9.7,Non-Compliant
+FI-008,Commercial Bank,21.2,3.2,39.6,0,3.1,Compliant
+FI-044,Commercial Bank,17.4,3.2,39.7,3,2.8,Compliant
+FI-071,SACCO (SME focus),14.6,13.7,31.2,5,6.3,Non-Compliant
+FI-099,SACCO (SME focus),12.5,6.9,31.4,2,4.4,Compliant
+FI-121,MFI (Informal clients),15.0,24.8,16.5,5,5.5,Non-Compliant
+FI-084,SACCO (SME focus),8.0,14.0,33.0,5,6.5,Non-Compliant
+FI-135,MFI (Informal clients),11.1,21.4,18.9,3,6.9,Non-Compliant
+FI-136,MFI (Informal clients),12.1,16.1,29.1,2,9.6,Non-Compliant
+FI-090,SACCO (SME focus),10.9,15.0,29.8,2,3.1,Non-Compliant
+FI-009,Commercial Bank,16.9,4.8,40.3,0,1.2,Compliant
+FI-014,Commercial Bank,12.0,1.0,60.2,1,3.3,Compliant
+FI-120,MFI (Informal clients),20.3,15.0,10.0,2,6.1,Non-Compliant
+FI-126,MFI (Informal clients),18.2,13.4,12.4,6,5.5,Non-Compliant
+FI-004,Commercial Bank,23.8,5.5,30.8,0,3.8,Compliant
+FI-018,Commercial Bank,19.6,6.5,27.5,0,1.1,Compliant
+FI-039,Commercial Bank,13.9,2.7,45.3,0,2.6,Compliant
+FI-073,SACCO (SME focus),9.8,9.9,33.2,4,1.4,Non-Compliant
+FI-137,MFI (Informal clients),11.4,15.6,10.6,6,5.6,Non-Compliant
+FI-007,Commercial Bank,24.0,1.9,55.0,1,2.8,Compliant
+FI-113,MFI (Informal clients),5.4,18.5,20.4,0,2.7,Non-Compliant
+FI-101,MFI (Informal clients),13.3,7.3,16.1,4,7.5,Non-Compliant
+FI-003,Commercial Bank,20.8,2.3,34.9,1,1.8,Compliant
+FI-064,SACCO (SME focus),16.2,8.2,42.8,0,6.9,Compliant
+FI-055,SACCO (SME focus),14.8,8.1,30.4,4,6.8,Non-Compliant
+FI-127,MFI (Informal clients),8.8,23.0,14.1,2,6.6,Non-Compliant
+FI-051,SACCO (SME focus),10.7,12.4,32.1,1,9.6,Non-Compliant
+FI-116,MFI (Informal clients),6.5,19.3,17.7,3,3.8,Non-Compliant
+FI-047,Commercial Bank,16.9,4.7,26.9,0,5.7,Compliant
+FI-140,MFI (Informal clients),10.0,16.1,26.5,3,6.9,Non-Compliant
+FI-062,SACCO (SME focus),14.4,14.1,25.9,4,1.4,Non-Compliant
+FI-148,MFI (Informal clients),9.1,11.9,21.1,8,5.0,Non-Compliant
+FI-080,SACCO (SME focus),8.0,9.4,28.1,6,3.4,Non-Compliant
+FI-060,SACCO (SME focus),10.7,12.5,13.9,1,2.0,Non-Compliant
+FI-092,SACCO (SME focus),11.7,14.1,19.9,2,5.6,Non-Compliant
+FI-042,Commercial Bank,19.1,6.4,49.8,0,3.5,Compliant
+FI-059,SACCO (SME focus),11.3,15.5,13.5,2,7.6,Non-Compliant
+FI-091,SACCO (SME focus),13.2,14.1,49.9,0,9.4,Non-Compliant
+FI-049,Commercial Bank,19.7,4.0,42.7,0,0.0,Compliant
+FI-089,SACCO (SME focus),13.7,16.8,36.7,5,4.4,Non-Compliant
+FI-108,MFI (Informal clients),16.9,19.3,21.4,6,6.5,Non-Compliant
+FI-125,MFI (Informal clients),24.1,4.0,23.3,3,8.8,Non-Compliant
+FI-022,Commercial Bank,17.7,7.8,29.8,2,8.0,Non-Compliant
+FI-058,SACCO (SME focus),11.8,7.5,30.3,3,6.9,Non-Compliant
+FI-145,MFI (Informal clients),11.5,27.4,33.1,0,6.6,Non-Compliant
+FI-130,MFI (Informal clients),6.7,14.8,18.6,2,8.8,Non-Compliant
+FI-038,Commercial Bank,12.0,4.8,35.1,1,4.1,Compliant
+FI-141,MFI (Informal clients),16.6,21.0,20.6,0,8.1,Non-Compliant
+FI-002,Commercial Bank,18.0,3.0,34.2,1,0.2,Compliant
+FI-053,SACCO (SME focus),10.2,10.0,19.8,2,5.0,Non-Compliant
+FI-131,MFI (Informal clients),20.6,19.6,21.3,1,7.1,Non-Compliant
+FI-104,MFI (Informal clients),23.2,23.0,14.5,3,7.2,Non-Compliant
+FI-100,SACCO (SME focus),15.1,9.4,46.8,4,4.3,Non-Compliant
+FI-117,MFI (Informal clients),11.1,13.0,12.8,3,6.9,Non-Compliant
+FI-088,SACCO (SME focus),14.6,4.9,20.3,0,3.4,Compliant
+FI-075,SACCO (SME focus),7.0,15.1,26.9,1,2.9,Non-Compliant
+FI-122,MFI (Informal clients),23.9,11.1,12.7,0,10.0,Non-Compliant
+FI-150,MFI (Informal clients),19.5,16.5,17.6,3,8.6,Non-Compliant
+FI-021,Commercial Bank,23.6,4.9,45.1,1,3.3,Compliant
+FI-072,SACCO (SME focus),15.7,10.0,19.7,4,5.4,Non-Compliant
+FI-107,MFI (Informal clients),18.5,7.6,17.6,6,7.4,Non-Compliant
+FI-015,Commercial Bank,12.5,6.0,36.3,1,4.1,Compliant
+FI-093,SACCO (SME focus),13.4,10.9,19.6,2,4.1,Non-Compliant
+FI-103,MFI (Informal clients),5.9,14.4,18.3,3,7.9,Non-Compliant
