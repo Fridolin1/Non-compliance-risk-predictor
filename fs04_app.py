@@ -54,7 +54,7 @@ st.markdown(
         .stApp { background-color: #f4f6f9; }
 
         [data-testid="stSidebar"] { background-color:#146740; }
-        [data-testid="stSidebar"] * { color: #FFFFFF !important; }
+        [data-testid="stSidebar"] * { color: black !important; }
 
         h1, h2, h3 { color: #0f1f3d; }
 
