@@ -51,10 +51,10 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-        .stApp { background-color: #f4f6f9; }
+        .stApp { background-color: gray; }
 
         [data-testid="stSidebar"] { background-color:#146740; }
-        [data-testid="stSidebar"] * { color: black !important; }
+        [data-testid="stSidebar"] * { color: #FFFFFF !important; }
 
         h1, h2, h3 { color: #0f1f3d; }
 
