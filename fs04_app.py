@@ -51,7 +51,7 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-        .stApp { background-color: gray; }
+        .stApp { background-color:  #f4f6f9; }
 
         [data-testid="stSidebar"] { background-color:#146740; }
         [data-testid="stSidebar"] * { color: #FFFFFF !important; }
